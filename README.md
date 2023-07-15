@@ -13,7 +13,7 @@ This custom nova field, can add SEO related fields to any Model through a morph 
 To install the package run the install below:
 
 ```
-composer require ibrahem-kamal/nova-seo-field
+composer require iki/nova-seo-field
 ```
 
 And then publish the configs and migrations :
